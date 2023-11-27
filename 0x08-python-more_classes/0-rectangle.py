@@ -1,10 +1,10 @@
 #!/usr/bin/python3
-""" empty class Rectangle that defines a rectangle
+"""
+Module 0-rectangle
+Defines an empty class called Rectangle
 """
 
 
 class Rectangle:
-    """ class rectangle"""
+    """Empty class."""
     pass
-
-
